@@ -1,6 +1,12 @@
 
 ![Hello World !! (1)](https://github.com/Krushnal121/Krushnal121/assets/109232748/a96492a0-9f20-4198-8ff3-24ab45f23d9e)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnal121&label=Profile%20views&color=0e75b6&style=flat" alt="krushnal121" /> </p>
 
 <p align="left"> <a href="https://twitter.com/krushnal121" target="blank"><img src="https://img.shields.io/twitter/follow/krushnal121?logo=twitter&style=for-the-badge" alt="krushnal121" /></a> </p>
