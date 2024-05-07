@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krushnal</h1>
-<h3 align="center">A passionate developer</h3>
+
+![Hello World !! (1)](https://github.com/Krushnal121/Krushnal121/assets/109232748/a96492a0-9f20-4198-8ff3-24ab45f23d9e)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnal121&label=Profile%20views&color=0e75b6&style=flat" alt="krushnal121" /> </p>
 
