@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/krushnal121" target="blank"><img src="https://img.shields.io/twitter/follow/krushnal121?logo=twitter&style=for-the-badge" alt="krushnal121" /></a> </p>
 
-- 🔭 I’m currently working on [Sanvaad](https://github.com/Krushnal121/Datapulse)
+- 🔭 I’m currently working on [Datapulse](https://github.com/Krushnal121/Datapulse)
 
 - 🌱 I’m currently learning **Javascript, Java**
 
 - 👯 I’m looking to collaborate on [Questify](https://github.com/Krushnal121/Questify-Quiz-Learn-Conquer)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Krushnal121](https://github.com/Krushnal121)
+- 👨‍💻 All of my projects are available at [Github][https://github.com/Krushnal121](https://github.com/Krushnal121)
 
 - 💬 Ask me about **Python , Django**
 
