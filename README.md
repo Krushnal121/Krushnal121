@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [Questify](https://github.com/Krushnal121/Questify-Quiz-Learn-Conquer)
 
-- 👨‍💻 All of my projects are available at [Github][https://github.com/Krushnal121](https://github.com/Krushnal121)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Krushnal121)
 
 - 💬 Ask me about **Python , Django**
 
