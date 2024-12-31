@@ -7,11 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnal121&label=Profile%20views&color=0e75b6&style=flat" alt="krushnal121" /> </p>
-
-<p align="left"> <a href="https://twitter.com/krushnal121" target="blank"><img src="https://img.shields.io/twitter/follow/krushnal121?logo=twitter&style=for-the-badge" alt="krushnal121" /></a> </p>
-
-- 🔭 I’m currently working on [DocuChain-Backend](https://github.com/DocuChain-Document-Ownership-DApp/DocuChain-Backend.git)
+- 🔭 I’m currently working on <a href="https://github.com/DocuChain-Document-Ownership-DApp/DocuChain-Backend">DocuChain-Backend</a>
 
 - 🌱 I’m currently learning **Javascript, Java**
 
@@ -22,8 +18,6 @@
 - 💬 Ask me about **Python , Django**
 
 - 📫 How to reach me **krushnalpatil1111@gmail.com**
-
-
 
 ---
 
@@ -69,9 +63,8 @@
 
 ---
 
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnal121&" alt="krushnal121" width="33%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnal121&show_icons=true&locale=en&layout=compact" alt="krushnal121" width="33%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=krushnal121&show_icons=true&locale=en" alt="krushnal121" width="33%" />
-
-<p align="center"></p>
+</p>
