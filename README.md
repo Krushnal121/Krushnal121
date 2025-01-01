@@ -26,6 +26,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram,linkedin,x&titles=true" alt="Connect with me">
 </p>
 </a>
+
 ---
 
 <h2 align="left">💻 Languages:</h2>
