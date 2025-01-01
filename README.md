@@ -1,4 +1,3 @@
-
 ![Hello World !! (1)](https://github.com/Krushnal121/Krushnal121/assets/109232748/a96492a0-9f20-4198-8ff3-24ab45f23d9e)
 
 <picture>
@@ -22,10 +21,11 @@
 ---
 
 <h2 align="left">🌐 Connect with Me:</h2>
+<a href="https://bento.me/krushnalpatil">
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram,linkedin,x&titles=true" alt="Connect with me">
 </p>
-
+</a>
 ---
 
 <h2 align="left">💻 Languages:</h2>
