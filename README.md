@@ -31,7 +31,14 @@
 
 <h2 align="left">💻 Languages:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,javascript,html,css,kotlin,cpp&titles=true" alt="Programming Languages">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=go,java,python,javascript,ts,html,css,kotlin,cpp&titles=true" alt="Programming Languages">
+</p>
+
+---
+
+<h2 align="left">📚 Frameworks and Libraries:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,expressjs,django,flask,fastapi,tailwind,bootstrap&titles=true" alt="Frameworks and Libraries">
 </p>
 
 ---
@@ -45,21 +52,14 @@
 
 <h2 align="left">🛠️ Tools:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,pycharm,webstorm,dataspell,vscode,postman,ganache,androidstudio,canva&titles=true" alt="Tools">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,docker,kubernetes,ubuntu,idea,pycharm,webstorm,dataspell,vscode,postman,ganache,androidstudio,canva&titles=true" alt="Tools">
 </p>
 
 ---
 
 <h2 align="left">🌐 Technologies:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,api,aws,gcp,azure,&titles=true" alt="Technologies">
-</p>
-
----
-
-<h2 align="left">📚 Frameworks and Libraries:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,expressjs,flask,react,truffle,vite,bootstrap&titles=true" alt="Frameworks and Libraries">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,android,api,graphql&titles=true" alt="Technologies">
 </p>
 
 ---
