@@ -6,18 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
-- 🔭 I’m currently working on <a href="https://github.com/DocuChain-Document-Ownership-DApp/DocuChain-Backend">DocuChain-Backend</a>
-
-- 🌱 I’m currently learning **Javascript, Java**
-
-- 👯 I’m looking to collaborate on [Questify](https://github.com/Krushnal121/Questify-Quiz-Learn-Conquer)
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Krushnal121)
-
-- 💬 Ask me about **Python , Django**
-
-- 📫 How to reach me **krushnalpatil1111@gmail.com**
-
 ---
 
 <h2 align="left">🌐 Connect with Me:</h2>
